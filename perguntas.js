@@ -52,6 +52,29 @@ criaCartao(
     'É a distância a leste ou oeste do meridiano de Greenwich.'
 )
 
+criaCartao(
+    'Geografia',
+    'O que é latitude?',
+    'É a distância em graus entre qualquer ponto na superfície do planeta Terra e a linha do equador.'
+)
+
+criaCartao(
+    'Matemática',
+    'Quais são os tipos de equações?',
+    'Equações polinomiais, Equações racionais, Equações irracionais, Equações exponenciais e Equação logarítmica.'
+)
+
+criaCartao(
+    '',
+    'Quais são os tipos de equações?',
+    'Equações polinomiais, Equações racionais, Equações irracionais, Equações exponenciais e Equação logarítmica.'
+)
+
+criaCartao(
+    'Biologia',
+    'Qual é a principal função da fotossíntese nas plantas?',
+    ''
+)
 
 //Ao todo são 20 perguntas que exigem memorização
 // do seu ensino médio (qualquer disciplina)
