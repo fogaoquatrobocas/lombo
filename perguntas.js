@@ -88,10 +88,36 @@ criaCartao(
     'Células procariontes são células sem núcleo definido, como as bactérias, enquanto células eucariontes têm um núcleo organizado e organelas, como as células animais e vegetais.'
 )
 
-Cartao(
-    'Geografia',
-    'O que é uma bacia hidrográfica?',
-    'Uma bacia hidrográfica é uma área de terra onde toda a água que cai (por chuva ou outros meios) drena para um único corpo de água, como um rio ou lago.'
+criaCartao(
+    'Física',
+    'O que é aeróbico?',
+    'Exercícios aeróbicos são atividades que aumentam a frequência cardíaca e a respiração, como correr, nadar e andar de bicicleta, promovendo a resistência cardiovascular.'
+)
 
+criaartao(
+    'Filosofia',
+    'O que é racionalismo?',
+    'Racionalismo é uma corrente filosófica que enfatiza a razão como a principal fonte de conhecimento, defendendo que as ideias inatas são fundamentais para a compreensão do mundo.'
+
+)
+
+criaCartao(
+    'Geografia',
+    'O que é um bioma?',
+    'Um bioma é uma grande comunidade ecológica que é caracterizada por condições climáticas específicas, vegetação e fauna, como florestas, desertos e tundras.'
+
+)
+
+criaCartao(
+    'Química',
+    'O que é a tabela periódica?',
+    'A tabela periódica é uma organização dos elementos químicos com base em suas propriedades e características, arranjados por número atômico.'
+)
+
+criaCartao(
+    'Geografia',
+    'O que é um mapa topográfico?',
+    'Um mapa topográfico é um tipo de mapa que representa o relevo de uma área, mostrando elevações e depressões com curvas de nível.'
+)
 //Ao todo são 20 perguntas que exigem memorização
 // do seu ensino médio (qualquer disciplina)
