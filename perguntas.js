@@ -65,16 +65,27 @@ criaCartao(
 )
 
 criaCartao(
-    '',
-    'Quais são os tipos de equações?',
-    'Equações polinomiais, Equações racionais, Equações irracionais, Equações exponenciais e Equação logarítmica.'
+    'História',
+    'O que foi a Revolução Industrial?',
+    'A Revolução Industrial foi um período de grandes transformações econômicas e sociais que começou no final do século XVIII na Inglaterra, caracterizado pela transição de uma economia agrária para uma economia industrial.'
 )
 
 criaCartao(
     'Biologia',
     'Qual é a principal função da fotossíntese nas plantas?',
-    ''
+    'A principal função da fotossíntese nas plantas é converter a luz solar em energia química. Durante esse processo, as plantas usam a luz, água e dióxido de carbono para produzir glicose e oxigênio.'
 )
 
+criaCartao(
+    'Geografia',
+    'O que é uma bacia hidrográfica?',
+    'Uma bacia hidrográfica é uma área de terra onde toda a água que cai (por chuva ou outros meios) drena para um único corpo de água, como um rio ou lago.'
+)
+
+criaCartao(
+    'Geografia',
+    'O que é uma bacia hidrográfica?',
+    'Uma bacia hidrográfica é uma área de terra onde toda a água que cai (por chuva ou outros meios) drena para um único corpo de água, como um rio ou lago.'
+)
 //Ao todo são 20 perguntas que exigem memorização
 // do seu ensino médio (qualquer disciplina)
