@@ -4,11 +4,17 @@
     --destaque: #000000;
     --preto: #000000;
     --branco: #ffffff;
-
 }
+
 body{
     background-color: var(--fundo);
     margin: 0;
+}
+header{
+    background-color: var(--preto);
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
 }
 
 footer{
