@@ -83,9 +83,15 @@ criaCartao(
 )
 
 criaCartao(
+    'Biologia',
+    'O que são células procariontes e eucariontes?',
+    'Células procariontes são células sem núcleo definido, como as bactérias, enquanto células eucariontes têm um núcleo organizado e organelas, como as células animais e vegetais.'
+)
+
+Cartao(
     'Geografia',
     'O que é uma bacia hidrográfica?',
     'Uma bacia hidrográfica é uma área de terra onde toda a água que cai (por chuva ou outros meios) drena para um único corpo de água, como um rio ou lago.'
-)
+
 //Ao todo são 20 perguntas que exigem memorização
 // do seu ensino médio (qualquer disciplina)
